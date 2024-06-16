@@ -6,6 +6,9 @@ int main(void) {
     char received_string[MAX_STRING_LENGTH]; // Buffer to store received string
 
     while (1) {
+
+        uart_transmit("R");
+        uart_transmit("i");
         // Receive a string and store it in the buffer
         uart_receive_string(received_string);
 
