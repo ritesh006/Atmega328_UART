@@ -32,11 +32,8 @@ This code is provided under the MIT License. Feel free to modify and distribute 
 
 ## Author
 
-This code was written by [Your Name]. You can contact me at [Your Email Address] for any questions or suggestions.
+This code was written by Ritesh K.. You can contact me at ritesh.kumar0793@gmail.com for any questions or suggestions.
 
-## Acknowledgments
-
-Special thanks to [Any contributors or resources you used] for their contributions and inspiration.
 
 ## Disclaimer
 
